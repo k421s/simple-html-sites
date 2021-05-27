@@ -2,7 +2,23 @@
 <head>
 	<meta charset="utf-8">
 	<title>Header information refresher for html documents</title>
-	<meta name="description" content"basic building of header information fromt he hdm documentation">
+	<meta name="description" content="basic building of header information fromt he hdm documentation">
+	<meta name="author" content="karlton">
+
+
+	<!-- og properties -->
+	<meta property="og:type" content="website">	
+	<meta property="og:locale" content="en_US">
+	<meta property="og:title" content="Header">
+	<meta property="og:description" content="basic building of header information fromt he hdm documentation">	
+	<meta property="og:url" content="https://ssaaee.github.io/simple-html-sites/">
+	<meta property="og:site_name" content="saaee github pages">
+
+	<!-- twitter meta data -->
+	
+
+
+
 </head>
 
 <body>
@@ -14,8 +30,19 @@
 		<li>something about og data</li>
 		<li>robots, I guess to not follow ad links</li>
 		<li>theme color</li>
-		<li>a bunch of link tags <li>some for langauge and others for preloads</li></li>
+		<li>a bunch of link tags <ul><li>some for langauge and others for preloads</li></li></ul>
 		<li>script tags</li>
-		<li></li>
+		<li>style tags</li>
+		<li>mega tags for social media accounts</li>
+		<li>meta property for og:title</li>
 	</ul>
+	<p>&lt;Title&gt;</p>
+
+	<h1>meta</h1>
+	<p>meta descriptions, meta data</p>
+
+	<h1>Og: Open Graph data</h1>
+	<p>social graph. facebook</p>
+
+
 </body>
