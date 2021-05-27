@@ -43,7 +43,11 @@
 		<li>something about og data</li>
 		<li>robots, I guess to not follow ad links</li>
 		<li>theme color</li>
-		<li>a bunch of link tags <ul><li>some for langauge and others for preloads</li></li></ul>
+		<li>a bunch of link tags 
+			<ul>
+				<li>some for langauge and others for preloads</li>
+			</ul>
+		</li>
 		<li>script tags</li>
 		<li>style tags</li>
 		<li>mega tags for social media accounts</li>
