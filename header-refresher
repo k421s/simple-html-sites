@@ -15,7 +15,14 @@
 	<meta property="og:site_name" content="saaee github pages">
 
 	<!-- twitter meta data -->
-	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@karltonsuits">
+	<meta name="twitter:description" content="view on Flickr">
+	<meta name="twitter:image" content="https://farm6.staticflickr.com/5510/14338202952_93595258ff_z.jpg">
+
+	<!-- not sure how to use this yet -->
+	<!-- favicon -->
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
 
 
@@ -43,6 +50,12 @@
 
 	<h1>Og: Open Graph data</h1>
 	<p>social graph. facebook</p>
+	<p>proprietary solution that uses og for pen graph</p>
 
+	<h1>twitter cards</h1>
+	<p>similar to open graph.</p>
+
+	<h1>icons</h1>
+	<p></p>
 
 </body>
