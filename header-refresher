@@ -24,6 +24,12 @@
 	<!-- favicon -->
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
+	<!-- links and scripts -->
+	<!-- link is empty at time of creation -->
+	<link rel="stylesheet" href="header-introduction.css">
+
+	<!-- also empty at time of creation -->
+	<script src="header-introduction.js" defer></script>
 
 
 </head>
@@ -59,6 +65,9 @@
 	<p>favicons like on bookmarks</p>
 	<p>also other icons for mobile applications</p>
 
-	<h1></h1>
+	<h1>links</h1>
+	<p>css and javascript</p>
+	<p>script</p>
+
 
 </body>
