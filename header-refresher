@@ -6,6 +6,16 @@
 </head>
 
 <body>
-	<h1>test</h1>
-	<p>test</p>
+	<h1>A few noticed over a couple of sites</h1>
+	<ul>
+		<li>always charset, title, description, keywords, viewport</li>
+		<li>a couple link prefetches</li>
+		<li>cross origin links</li>
+		<li>something about og data</li>
+		<li>robots, I guess to not follow ad links</li>
+		<li>theme color</li>
+		<li>a bunch of link tags <li>some for langauge and others for preloads</li></li>
+		<li>script tags</li>
+		<li></li>
+	</ul>
 </body>
