@@ -4,7 +4,7 @@
 	<title>Header information refresher for html documents</title>
 	<meta name="description" content="basic building of header information fromt he hdm documentation">
 	<meta name="author" content="karlton">
-
+    <html lang="en-US">
 
 	<!-- og properties -->
 	<meta property="og:type" content="website">	
